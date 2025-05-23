@@ -3,20 +3,6 @@
 
 Proyek ini merupakan bagian dari proses belajar membuat web server dasar menggunakan Node.js tanpa framework tambahan seperti Express. Web server ini dapat menangani beberapa request HTTP seperti `GET`, `POST`, `PUT`, dan `DELETE`.
 
-## 📁 Struktur Proyek
-
-```
-.
-├── .gitignore            # File konfigurasi git ignore
-├── .prettierrc           # File konfigurasi Prettier (formatter)
-├── order-service.js      # Simulasi service untuk order
-├── user-service.js       # Simulasi service untuk user
-├── package.json          # Metadata dan dependencies proyek
-├── package-lock.json     # Lock file dependencies
-├── server.js             # File utama server Node.js
-└── README.md             # Dokumentasi proyek
-```
-
 ## ▶️ Cara Menjalankan
 
 1. Pastikan Node.js sudah terpasang di perangkat Anda.
